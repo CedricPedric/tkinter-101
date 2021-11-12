@@ -1,4 +1,3 @@
-from math import radians
 import random
 import tkinter
 
